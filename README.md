@@ -52,7 +52,7 @@ To get started with the project, follow these steps:
    ```bash
    git clone https://github.com/NajibHossain49/LinBo.git
 
-   cd b10-a9-authentication-NajibHossain49
+   cd LinBo
    cd lingo-bingo
    ```
 
