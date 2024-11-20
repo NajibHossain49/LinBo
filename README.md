@@ -50,7 +50,7 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/programming-hero-web-course1/b10-a9-authentication-NajibHossain49.git
+   git clone https://github.com/NajibHossain49/LinBo.git
 
    cd b10-a9-authentication-NajibHossain49
    cd lingo-bingo
