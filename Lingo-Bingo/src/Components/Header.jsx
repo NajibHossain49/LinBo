@@ -54,7 +54,7 @@ const Header = () => {
               to="/"
               className="text-3xl font-bold text-white hover:text-pink-200 transition-colors duration-300"
             >
-              <span>Lingo Bingo</span>
+              <span>LinBo</span>
             </NavLink>
           </div>
 

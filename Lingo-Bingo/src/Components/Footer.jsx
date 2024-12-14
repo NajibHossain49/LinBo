@@ -17,7 +17,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* Store Info */}
           <div className="space-y-4">
-            <h2 className="text-xl font-bold">Lingo Bingo</h2>
+            <h2 className="text-xl font-bold">LinBo</h2>
             <p className="text-gray-700 text-sm">
               Your One-Stop Destination for Language Mastery
             </p>
@@ -127,7 +127,7 @@ const Footer = () => {
         <div className="mt-12 pt-8 border-t border-gray-700">
           <div className="text-center text-gray-700 text-sm">
             <p>
-              © {new Date().getFullYear()} Lingo Bingo. All rights reserved.
+              © {new Date().getFullYear()} LinBo. All rights reserved.
             </p>
             <div className="mt-2 space-x-4">
               <Link to="/privacy" className="hover:text-gray-500">
