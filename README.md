@@ -1,8 +1,8 @@
-# 🌟 Lingo Bingo: A Vocabulary Learning Application
+# 🌟 LinBo: A Vocabulary Learning Application
 
 ## 🚀 Project Overview
 
-**Lingo Bingo** is a fun and interactive **French language learning** application designed to help users expand their vocabulary and improve their communication skills. With a user-friendly interface and gamified approach, this application makes learning enjoyable and retention of vocabulary easier.
+**LinBo** is a fun and interactive **French language learning** application designed to help users expand their vocabulary and improve their communication skills. With a user-friendly interface and gamified approach, this application makes learning enjoyable and retention of vocabulary easier.
 
 [Live Demo 🌐](https://lingo-bingo-vocab.web.app/)  
 
